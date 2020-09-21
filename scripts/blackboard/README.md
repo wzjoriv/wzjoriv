@@ -24,7 +24,7 @@
     <a href="https://github.com/JosueCom/JosueCom/blob/master/scripts/blackboard/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JosueCom/JosueCom/raw/master/scripts/blackboard/organize.py">Download Script</a>
+    <a href="https://github.com/JosueCom/JosueCom/raw/master/scripts/blackboard/organize.py" download="organize">Download Script</a>
     ·
     <a href="https://github.com/JosueCom/JosueCom/issues">Report Bug</a>
     ·
