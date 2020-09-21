@@ -3,8 +3,9 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Poftfolio][website-shield]][website-url]
 
 
 
@@ -118,7 +119,9 @@ Scripts Projects: [https://github.com/JosueCom/JosueCom/scripts](https://github.
 [stars-url]: https://github.com/JosueCom/JosueCom/stargazers
 [issues-shield]: https://img.shields.io/github/issues/JosueCom/JosueCom.svg?style=flat-square
 [issues-url]: https://github.com/JosueCom/JosueCom/issues
-[license-shield]: https://img.shields.io/github/license/JosueCom/JosueCom.svg?style=flat-square
+[license-shield]: https://img.shields.io/badge/license-MIT-green
 [license-url]: https://github.com/JosueCom/JosueCom/blob/master/scripts/blackboard/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/josue-n-rivera/
+[website-shield]: https://img.shields.io/website?url=https%3A%2F%2Fjosuenrivera.site
+[website-url]: https://josuenrivera.site
