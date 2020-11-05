@@ -19,4 +19,4 @@ for file in files:
 
 	hw = file[:start_std_name - 1] # get homework name
 	student = file[start_std_name:end_std_name] # get student name
-	os.renames(file, hw + "/" + student + "/" + file) # move file
+	os.renames(file, os.path.join(hw, student, file)) # move file
