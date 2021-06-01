@@ -6,7 +6,7 @@
 - 🌱 I’m learning about ``React`` & ``Graph Neural Networks``
 - 👨‍🔬 I'm interested in ``Machine Learning``, ``Web Developemnt``, ``IoT`` & ``Theoretical Computing``
 - ⚽ I'm enjoy ``Billiards``, ``Anime``, ``Gaming``, ``Learning about Japanese History & Culture``, ``Art`` & ``STEM``
-- 📫 I can be reached on [my site](https://josuenrivera.site), [email](josue.n.rivera@outlook.com) or [josuecom_](https://twitter.com/josuecom_) on Twitter
+- 📫 I can be reached through [my site](https://josuenrivera.site), [email](josue.n.rivera@outlook.com) or [josuecom_](https://twitter.com/josuecom_) on Twitter
 
 ### Useful Scripts 📄 
 * Blackboard Homework Submissions Reorganization ([Download](https://github.com/JosueCom/JosueCom/tree/master/scripts/blackboard))
