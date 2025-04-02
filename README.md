@@ -1,7 +1,7 @@
 ### Josue N. Rivera
-AeroAstro PhD @ Purdue University
+Reserach Fellow @ Nanyang Technological University (NTU)
 
 ---
 [Website](https://josuenrivera.site/) • [Email](mailto:josue.n.rivera@outlook.com) • [Github Gists](https://gist.github.com/wzjoriv)
 
-**Research Interests:** ``Machine Learning``, ``Autonomy``, ``Control Theory``, & ``Applied Engineering``
+**Research Interests:** ``Machine Learning``, ``Autonomy``, ``Urban Air Mobility``, ``Control Theory``, & ``Applied Engineering``
