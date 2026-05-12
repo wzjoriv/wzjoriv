@@ -13,7 +13,7 @@ Reserach Fellow @ Nanyang Technological University (NTU)
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/wzjoriv/Larp">🧭 Larp</a></h4>
-      <p><em>(/lärp/)</em> — Last-Mile Route Planning. UAV path and trajectory planning under operational constraints.</p>
+      <p><em>(/lärp/)</em> — Last-Mile Autonomoute Route Planning. UAV path and trajectory planning under operational constraints.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
